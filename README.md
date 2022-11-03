@@ -1,5 +1,6 @@
-## Created by Nazwa Nurfadhilla Phitri
+## Created by Nazwa Nurfadhilla Phitri_21343061
 Pada pertemuan kali ini kita akan mempelajari tentang Class, Objek, Property, Method, Constructor dan visibility. 
+
 •	Class merupakan blueprint/rancangan dari suatu objek. Class adalah gambaran umum dari suatu objek.
 •	Objek adalah hasil cetak dari class, atau bisa juga disebut hasil konkrit dari class.
 •	Property (atau kadang juga dengan atribut atau field) adalah data yang terdapat dalam sebuah class.
